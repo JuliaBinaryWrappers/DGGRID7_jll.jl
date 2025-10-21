@@ -1,288 +1,316 @@
 [[DGGRID7]]
 arch = "aarch64"
-git-tree-sha1 = "34e5dc3c5ae0e50303c849bc1cb43e4c10234dd5"
+git-tree-sha1 = "b246bbc8b9717a24dd38a1513153ef0fc4557fc9"
 os = "macos"
 
     [[DGGRID7.download]]
-    sha256 = "7ecdbd9a7482b4aff412f1453ac4652e0392082993e4cd451d46a943d24db46c"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "bbb260ee27fd48872f170e72701cf66fdf8ace0bad33b409608bbbec65020faf"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.aarch64-apple-darwin.tar.gz"
 [[DGGRID7]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7cacae320b82c2d878352cff2570d1975794094b"
+git-tree-sha1 = "1b6b8af5edbcecb7c68e3b96ad5b2feef4f0512c"
 libc = "glibc"
 os = "linux"
 
     [[DGGRID7.download]]
-    sha256 = "02b74de1d1b7635487b0ea6a794af1d02427956c78aea0f6e8aa790126823f9a"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "8651ea2b8a79e18029b6d7711351fae9169e4aeff8b41a4673cc18bb754246ed"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.aarch64-linux-gnu-cxx03.tar.gz"
 [[DGGRID7]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c05691a514d938c1270ca00c7c1bf0201241d482"
+git-tree-sha1 = "acc7cf390f502e59931f84282af39b3c189330f2"
 libc = "glibc"
 os = "linux"
 
     [[DGGRID7.download]]
-    sha256 = "de6c7fdb264003ded13b9de1ded79ebe4a566019c6b6ba84e6737ff58e8ee195"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "0bcf6369a53d4a14ce7408da1f1b2288e0188d446718b7c3df22b0c868bd1310"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.aarch64-linux-gnu-cxx11.tar.gz"
 [[DGGRID7]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "65fb30aa62ec082c6674827b10545e1585dc7f35"
+git-tree-sha1 = "87a617165ba952c9724b0adbfc08960d476a57f0"
 libc = "musl"
 os = "linux"
 
     [[DGGRID7.download]]
-    sha256 = "6930b3286b4a68db96ce61dc37d2b481cab0fac5c9716c0b78999be86d00b0bd"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "44491e0571f4a0cd94b2ebfb197f4912721f29573cc11d821a99902f6246b0eb"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.aarch64-linux-musl-cxx03.tar.gz"
 [[DGGRID7]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b93dc6e7c01065ce1dab9bd65653f0753d35c46b"
+git-tree-sha1 = "5928cf08f7408fa8730b84a706fca4ea59d44792"
 libc = "musl"
 os = "linux"
 
     [[DGGRID7.download]]
-    sha256 = "20640feb1b1ccbf46afbadb440c850b3d405cecd542ac7eb5a8e4fc8f063c07d"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "d61c75dfa1a05d0a1560ad20735b808c4a26728ac6c73d82df49f4c0f0d2a357"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.aarch64-linux-musl-cxx11.tar.gz"
 [[DGGRID7]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "49472a3c09adf9fb38377f7849992b355e3d6e57"
-libc = "glibc"
-os = "linux"
-
-    [[DGGRID7.download]]
-    sha256 = "f3e4467412d18de6840c38a3413a1315fef1feea8a1ec81138e2c50613c3ce89"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
-[[DGGRID7]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c900d189f3a97b0da217d334e118ec723efff28b"
-libc = "glibc"
-os = "linux"
-
-    [[DGGRID7.download]]
-    sha256 = "b349217c19847a3925366a1f4f3c04777d1e3fca75f39097f6489eeb8aafbf85"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
-[[DGGRID7]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "fecb8262e1a8cd1673e2276a124a11145706a906"
-libc = "musl"
-os = "linux"
-
-    [[DGGRID7.download]]
-    sha256 = "704fe22a96e15bd18e40011c6a5067ad8ff655e698d66aee3ec8562d3bb5a580"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.armv6l-linux-musleabihf-cxx03.tar.gz"
-[[DGGRID7]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "86e631fb6e06b4657259919e1bebf03aa6740f70"
-libc = "musl"
-os = "linux"
-
-    [[DGGRID7.download]]
-    sha256 = "7978ac83f324c7d497f7e7ae38f7bec84849b66815b96c2f2ba4bb4448ea6c2a"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.armv6l-linux-musleabihf-cxx11.tar.gz"
-[[DGGRID7]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "0e7ed73a2f4d46e828edf6f0dd7db0aa09c5022a"
-libc = "glibc"
-os = "linux"
-
-    [[DGGRID7.download]]
-    sha256 = "9cd21d13c3f13c4a007f4cee33714ae4b816c4986834a760476a47953ddbd102"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[DGGRID7]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "433b56a0c7086120a852f26a7e73f638e92f03a1"
-libc = "glibc"
-os = "linux"
-
-    [[DGGRID7.download]]
-    sha256 = "e9a2969acfdaa1e401fa396f8705331ccc6860d98025b61848172504de25386c"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[DGGRID7]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "370f493adf71d6dc517f0014dfc0fbe2821d6ebc"
-libc = "musl"
-os = "linux"
-
-    [[DGGRID7.download]]
-    sha256 = "dabf01abb4c2ec782c3a60766b0a578a956a728cb912c708717d85c62b718021"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[DGGRID7]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "7bc83c9fe8c47991b1ac66ed87f3ef3130b6194a"
-libc = "musl"
-os = "linux"
-
-    [[DGGRID7.download]]
-    sha256 = "c1b0efe23f44eac85cc22a75d02e238007f7f958371c003d7dfbf7448b5413ca"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.armv7l-linux-musleabihf-cxx11.tar.gz"
-[[DGGRID7]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "bd9cd78fae165b44b0ad7a4e88d47a57fb99a8b1"
-libc = "glibc"
-os = "linux"
-
-    [[DGGRID7.download]]
-    sha256 = "0178f9e1a605a20bcc8376bc4b029c64bd2a0b88c7c83e17b4432f1726bb4d3e"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.i686-linux-gnu-cxx03.tar.gz"
-[[DGGRID7]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "21d240bbf023e3fe7a05378c2bb01c43a0caa446"
-libc = "glibc"
-os = "linux"
-
-    [[DGGRID7.download]]
-    sha256 = "3549ac2c684e9ed2d25455f49e5b7de30c5d7f27b5b89b3b7ef37164d792698e"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.i686-linux-gnu-cxx11.tar.gz"
-[[DGGRID7]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e58ab65a0db141a7a31e5ec7b987c1793eb49bbd"
-libc = "musl"
-os = "linux"
-
-    [[DGGRID7.download]]
-    sha256 = "74615e777c2995457fd4ca4132430602904269e2248b4a8ec08cb227fb6264f5"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.i686-linux-musl-cxx03.tar.gz"
-[[DGGRID7]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b4f12c0ae0de01e3fe7c8328b18d090c2a32221f"
-libc = "musl"
-os = "linux"
-
-    [[DGGRID7.download]]
-    sha256 = "2f6839b155735474b500fe174853d0301c70505222a179be20d5189b460c1882"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.i686-linux-musl-cxx11.tar.gz"
-[[DGGRID7]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "61cd41ade35cf925b011ef4b19862c3aa3933731"
-os = "windows"
-
-    [[DGGRID7.download]]
-    sha256 = "ba72c63ddb9bb810ae4a58b15f019c8b188ece1c0055e2a37bafcb1f863d8046"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.i686-w64-mingw32-cxx03.tar.gz"
-[[DGGRID7]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "8bc4f360e1d92a043e27e5f55f65a9d367868651"
-os = "windows"
-
-    [[DGGRID7.download]]
-    sha256 = "ccf4363105bff4b4ae660d80c42e4f910951043cc0f889beaa98803d6aa53c01"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.i686-w64-mingw32-cxx11.tar.gz"
-[[DGGRID7]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1be5699db078931a816957452465e3b9a549538d"
-libc = "glibc"
-os = "linux"
-
-    [[DGGRID7.download]]
-    sha256 = "318ece64aae9dfb35a9593fc8f18ba8431c7a4f113e1a655101201da07cd1a8f"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[DGGRID7]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "8314ee5f256d9d67f6faabe21db38a5549e25250"
-libc = "glibc"
-os = "linux"
-
-    [[DGGRID7.download]]
-    sha256 = "f4f85842516b3cfde444bf60463d96e42cd55bcecd6bda3d05db97a5f8c4753f"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.powerpc64le-linux-gnu-cxx11.tar.gz"
-[[DGGRID7]]
-arch = "x86_64"
-git-tree-sha1 = "5bf24cc22c945db97c4e55a757e6d43e32363d87"
-os = "macos"
-
-    [[DGGRID7.download]]
-    sha256 = "0848ab3f4eb6f2a1548ebc34c272d6320644e9ef0d2a4eb2bc97315aace1367d"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.x86_64-apple-darwin.tar.gz"
-[[DGGRID7]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "7502b1b9f9a4e87723cc7cb4716c96e1309f028b"
-libc = "glibc"
-os = "linux"
-
-    [[DGGRID7.download]]
-    sha256 = "a12a54f027ac12853fc3ab1b4e5c8a8a22a9e499bdb2dea24604c638e0217d52"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.x86_64-linux-gnu-cxx03.tar.gz"
-[[DGGRID7]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "f4aac71056880a075dd62fa9b9a65d44c6de441e"
-libc = "glibc"
-os = "linux"
-
-    [[DGGRID7.download]]
-    sha256 = "9fda73713204db118125928632aaa1d1438f4418b2deb6022b1fd05e751c070c"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.x86_64-linux-gnu-cxx11.tar.gz"
-[[DGGRID7]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f5406a812858d0b19d5321ae8105bb4771543a1e"
-libc = "musl"
-os = "linux"
-
-    [[DGGRID7.download]]
-    sha256 = "734d43b0098c60d59bd31420da3880f92b8ff7dd41b0fefcd8917a779b2971a5"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.x86_64-linux-musl-cxx03.tar.gz"
-[[DGGRID7]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "a67979ce90c1f15e5d1ec17a71177c586a16a991"
-libc = "musl"
-os = "linux"
-
-    [[DGGRID7.download]]
-    sha256 = "25e2c4d756468501f9452f64d66ee2fb2fd7e0f731575a11bd03bd988555ae12"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.x86_64-linux-musl-cxx11.tar.gz"
-[[DGGRID7]]
-arch = "x86_64"
-git-tree-sha1 = "34687dd3d636ab3baa0b22db77dae2335dff0819"
+arch = "aarch64"
+git-tree-sha1 = "6d1bd089827a01ea4ece3b6a8e4939ebbd24a462"
 os = "freebsd"
 
     [[DGGRID7.download]]
-    sha256 = "5e82226552b58f804d4fa9aac71d97e871ac359a590ef027025ea868da247c33"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "c7f0192b76074839243a5fcbaf3e11163da453d0f3654300c3612f9238265229"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.aarch64-unknown-freebsd.tar.gz"
+[[DGGRID7]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1b9c9973c113259750f4168379f78876de574336"
+libc = "glibc"
+os = "linux"
+
+    [[DGGRID7.download]]
+    sha256 = "7d295a6bbcccdba62cec1fce04164011c4f5fed32fec4677070a20d901b6cc8e"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[DGGRID7]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "421c56bc08f1594c58814aa61b0df43b90f05153"
+libc = "glibc"
+os = "linux"
+
+    [[DGGRID7.download]]
+    sha256 = "0852ff9cbbe99ae887e9f98b6a5a71f9838fd47e33878feaca36bcbe40a6bfb8"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[DGGRID7]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "57161d38ef27627a72305baaf1790e4560c2418d"
+libc = "musl"
+os = "linux"
+
+    [[DGGRID7.download]]
+    sha256 = "c528631d94944447eb4e155559a2445e59690d4a852b00ca7e64baddaee4326e"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[DGGRID7]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b2f8212ccb896aabdbdf7fdc636270290a1c9905"
+libc = "musl"
+os = "linux"
+
+    [[DGGRID7.download]]
+    sha256 = "01c361bce0ec9c6b6891adfd86669f581a18385f887714585eb8920a8f1f5ae2"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[DGGRID7]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8e6657e176da8d2b4e527d779cb534813a1a7e44"
+libc = "glibc"
+os = "linux"
+
+    [[DGGRID7.download]]
+    sha256 = "040cbd5124f2f2c130f76a2404c76100ab5777c05c68b4d7c7b9a28e2c6255a7"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[DGGRID7]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4dd8c88146ca569483ee82b40088425da79c8b1c"
+libc = "glibc"
+os = "linux"
+
+    [[DGGRID7.download]]
+    sha256 = "8f3a65f0f3c4c54ee259f0dfaf2941ca2f9f76f9caa379d448d1e600aa22403c"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[DGGRID7]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "74a747094409a3caa77bc2534a3778d1e6cc4ef0"
+libc = "musl"
+os = "linux"
+
+    [[DGGRID7.download]]
+    sha256 = "953b39f8fd10766508d0f9c71bbbb1ef46181b3c497365b74447c3f97be8f386"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[DGGRID7]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c4a3931405fb350d4abb54eb21cce0088d4f1cb0"
+libc = "musl"
+os = "linux"
+
+    [[DGGRID7.download]]
+    sha256 = "d75a25f9bd0b15ba1dea7a501de78100668c1d9b48509adb2c6abc8a205415c1"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[DGGRID7]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "26ea2c448394990824e6a152f554ce80849f2c81"
+libc = "glibc"
+os = "linux"
+
+    [[DGGRID7.download]]
+    sha256 = "b9fee1570fc3e95466993c23bd526e0f544a6f76c39a8fe1385b6f2ab0156d6b"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.i686-linux-gnu-cxx03.tar.gz"
+[[DGGRID7]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "29c504c30e6b80fad2a71c88067466d184b61b4f"
+libc = "glibc"
+os = "linux"
+
+    [[DGGRID7.download]]
+    sha256 = "033d3981e729d09ed0ac427e40b65a79f4f7ff651c33b5a43da6c603bb191bcb"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.i686-linux-gnu-cxx11.tar.gz"
+[[DGGRID7]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c7c3df6c786dae092459a05d488c60d12913f67b"
+libc = "musl"
+os = "linux"
+
+    [[DGGRID7.download]]
+    sha256 = "7970630fef9cea7ddba5e7161f9373268a6e10ee9278cdc11b954ddda3240c40"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.i686-linux-musl-cxx03.tar.gz"
+[[DGGRID7]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d698be000f5b61db19afe97cf94324cd85c1765e"
+libc = "musl"
+os = "linux"
+
+    [[DGGRID7.download]]
+    sha256 = "6111b8669d81265e3fd8ae951ae9ba618d252a0be19c238471b8bbfee9b520ca"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.i686-linux-musl-cxx11.tar.gz"
+[[DGGRID7]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2bd2781cdc6b8496e2073536b731e7e128776e95"
+os = "windows"
+
+    [[DGGRID7.download]]
+    sha256 = "ff25bfbf507f2039a06b3b44dfa58d9e3034fa64259028bb4438f1078bcc2008"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.i686-w64-mingw32-cxx03.tar.gz"
+[[DGGRID7]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "116bbfec4ecd8c9f91c8ffa6ee2510bfee3554e8"
+os = "windows"
+
+    [[DGGRID7.download]]
+    sha256 = "010107f7beec0376fc1d2a971858b986759e6b4288890faa00f8012b3df07f7c"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.i686-w64-mingw32-cxx11.tar.gz"
+[[DGGRID7]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6fcd2f73cb287d3483c881de0dee05f520e9a06b"
+libc = "glibc"
+os = "linux"
+
+    [[DGGRID7.download]]
+    sha256 = "a8eec3303033195f161e3c338230e7f6695b3f9dff2c98eea553c911f0bcac7f"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[DGGRID7]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e9fa25b9fa8df1533eaef1ce4fc5fb8735c04f14"
+libc = "glibc"
+os = "linux"
+
+    [[DGGRID7.download]]
+    sha256 = "1abe3d99e96773ac35389415ac85aa301fdbd32546d1dbf207fe96df3fc2701a"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[DGGRID7]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1f266ba7f8a88484dc4727ca732b7df6e09864f0"
+libc = "glibc"
+os = "linux"
+
+    [[DGGRID7.download]]
+    sha256 = "443f4633b16434f966f558fe58664e2cdf182c79c97085d4719cf6ca1e7acad1"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.riscv64-linux-gnu-cxx03.tar.gz"
+[[DGGRID7]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "109d73082c35d74f0a2d3e1ed26a8e850469eca5"
+libc = "glibc"
+os = "linux"
+
+    [[DGGRID7.download]]
+    sha256 = "d879bcb0a2e0bc46c600f14b16458c8dc2484183ae1980d32cfd0db631daea42"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.riscv64-linux-gnu-cxx11.tar.gz"
+[[DGGRID7]]
+arch = "x86_64"
+git-tree-sha1 = "95bcff04e849981510b953dc7fa6dbc30429c41b"
+os = "macos"
+
+    [[DGGRID7.download]]
+    sha256 = "beeffceec1d4857dd09c04f3ec977f1d9291e7094ef3c657b89a04fbfd105a9e"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.x86_64-apple-darwin.tar.gz"
 [[DGGRID7]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "25ca4a126606148577e97002f6f1be901fa11de6"
-os = "windows"
+git-tree-sha1 = "4aa106f68d5af8c583d6091dcca93d62a515b6d2"
+libc = "glibc"
+os = "linux"
 
     [[DGGRID7.download]]
-    sha256 = "582a9e21930c829025a1c0bea9db80ce47fca4421f28b77c05e6278573034962"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "9049766e82b49c05b69b45ae74a11ef17438fd6374b889924e43885ad25b2f91"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.x86_64-linux-gnu-cxx03.tar.gz"
 [[DGGRID7]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5abd427aae7807d27a42f740825ee6500b5a5f66"
+git-tree-sha1 = "bd20e3fb16029391f552470f9c23b751996393db"
+libc = "glibc"
+os = "linux"
+
+    [[DGGRID7.download]]
+    sha256 = "530dfaceb8e7d9ac579aec7352f1c7f0e680ddac62289ee92b5b44577e152514"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.x86_64-linux-gnu-cxx11.tar.gz"
+[[DGGRID7]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3db5001c4f92b6ed62f2d48bab0240b1ba9dfea3"
+libc = "musl"
+os = "linux"
+
+    [[DGGRID7.download]]
+    sha256 = "89fece12a490dea29b9a5adcc5097419f8a497f67cae8a573d08ef0ae13fc312"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.x86_64-linux-musl-cxx03.tar.gz"
+[[DGGRID7]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f786a9ee26be912bbd7c09a3e2f17b715540ac56"
+libc = "musl"
+os = "linux"
+
+    [[DGGRID7.download]]
+    sha256 = "fe3477701f9249cc644c52588c7f34661b7afc04dbf7b932abf262b88ae1d92f"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.x86_64-linux-musl-cxx11.tar.gz"
+[[DGGRID7]]
+arch = "x86_64"
+git-tree-sha1 = "8ab2f15943bf2ee85d785abb65d17991537b8802"
+os = "freebsd"
+
+    [[DGGRID7.download]]
+    sha256 = "bfb2150ae1e213c630d21a5bb92a201b5788e5022f36e32c4971abbed5da6266"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.x86_64-unknown-freebsd.tar.gz"
+[[DGGRID7]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0d825278c47d5f86cc376e30a446676c931a9b07"
 os = "windows"
 
     [[DGGRID7.download]]
-    sha256 = "c980a226edd123deaaefec328933911d17b7cff5f9bf2398313417c7332d9fc5"
-    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v0.9.1+0/DGGRID7.v0.9.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "3a68fb25110b6cfd772b87d884806c365013ad6b2137fca75b6aa865f570c681"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.x86_64-w64-mingw32-cxx03.tar.gz"
+[[DGGRID7]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bef0504aa24c1a9e0b23b6baf5aae73cbed8f3c1"
+os = "windows"
+
+    [[DGGRID7.download]]
+    sha256 = "2f176af0ac01a48294106bd3c5c0eebb71509d997988d5b50abdcbb30afa5d18"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID7_jll.jl/releases/download/DGGRID7-v1.8.42+0/DGGRID7.v1.8.42.x86_64-w64-mingw32-cxx11.tar.gz"
